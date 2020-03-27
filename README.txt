@@ -3,7 +3,7 @@
 ├── Project1
 │   	└── mtacular
 │   		  ├── notebooks
-│   			│   └── code
+│   			│     └── code
 │	   			│         ├── analyze_mta_data.py
 │	   			│         ├── data_manip.py
 │	   			│         ├── data_manip.txt
@@ -16,9 +16,9 @@
 │   			├── ekand_make_clean_data_0.2.ipynb
 │   			├── ekand_process_data_0.1.2.ipynb
 │   			├── references
-│   			│	    └── MTA_Info_Turnstile_Data
+│   			│	      └── MTA_Info_Turnstile_Data
 │   			├── reports
-│   			│	    └── JN_MTA_DATA_PP_4.0.odp
+│   			│	      └── JN_MTA_DATA_PP_4.0.odp
 │   			├── LICENSE
 │   			├── README.txt
 │   			└── requirements.txt
