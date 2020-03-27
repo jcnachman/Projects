@@ -2,26 +2,26 @@
 
 ├── Project1
 │   	└── mtacular
-│   		  ├── notebooks
-│   			│     └── code
-│	   			│         ├── analyze_mta_data.py
-│	   			│         ├── data_manip.py
-│	   			│         ├── data_manip.txt
-│	   			│         ├── example_data_access.py
-│	   			│         ├── get_mta_data.py
-│	   			│         └── process_mta_data.my
-│   			├── JN_processed_data_weekends0.1.ipynb
-│   			├── ekand_eda_0.4.ipynb
-│   			├── ekand_load_data.ipynb
-│   			├── ekand_make_clean_data_0.2.ipynb
-│   			├── ekand_process_data_0.1.2.ipynb
-│   			├── references
-│   			│	      └── MTA_Info_Turnstile_Data
-│   			├── reports
-│   			│	      └── JN_MTA_DATA_PP_4.0.odp
-│   			├── LICENSE
-│   			├── README.txt
-│   			└── requirements.txt
+│   	  ├── notebooks
+│   		│     └── code
+│	   		│         ├── analyze_mta_data.py
+│	   		│         ├── data_manip.py
+│	   		│         ├── data_manip.txt
+│	   		│         ├── example_data_access.py
+│	   		│         ├── get_mta_data.py
+│	   		│         └── process_mta_data.my
+│   		├── JN_processed_data_weekends0.1.ipynb
+│   		├── ekand_eda_0.4.ipynb
+│   		├── ekand_load_data.ipynb
+│   		├── ekand_make_clean_data_0.2.ipynb
+│   		├── ekand_process_data_0.1.2.ipynb
+│   		├── references
+│   		│	      └── MTA_Info_Turnstile_Data
+│   		├── reports
+│   		│	      └── JN_MTA_DATA_PP_4.0.odp
+│   		├── LICENSE
+│   		├── README.txt
+│   		└── requirements.txt
 ├── Project2
 │   	├── Joanna_Nachman_Project_2_Code_Submission.ipynb
 │   	├── Project2_PP.odp
