@@ -3,7 +3,7 @@
 ├── Project1
 │   	└── mtacular
 │   	  ├── notebooks
-│   		│     └── code
+│       │     └── code
 │	   		│         ├── analyze_mta_data.py
 │	   		│         ├── data_manip.py
 │	   		│         ├── data_manip.txt
