@@ -48,6 +48,22 @@
 │   	└── JoannaN_Webscraping
 │   		    ├── JoannaN_Fave_Test_Albums.ipynb
 │   		    └── JoannaN_webscraping_PF_Model.ipynb
+├── Project5
+│   	├── AnomalyDetection
+│   	│	    ├── Windfarm_Feature_Distributions.ipynb
+│   	│	    ├── Windfarm_Isolation_Forest_for_Anomaly_Detection.ipynb
+│   	│	    ├── Windfarm_Multivariate_Anomaly_Detection.ipynb
+│   	│	    ├── Windfarm_RandomForest.ipynb
+│   	│	    └── Windfarm_Univariate_Anomaly_Detection_Isolation_Forests.ipynb
+│   	├── EDA
+│   	│	    └── Windfarm_EDA_WindRose.ipynb
+│   	├── Preprocessing
+│   	│	    ├── Windfarm_Preprocessing-2013-2016.ipynb
+│   	│	    └── Windfarm_Preprocessing_2017-2020.ipynb
+│   	├── TimeSeries
+│   	│	    └── Windfarm_Holt-Winters_ExponentialSmoothing.ipynb
+│   	├── Project5_WindTurbines.pdf
+│   	└── References.ipynb
 └── README.txt
 
 --------
